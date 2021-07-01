@@ -1,45 +1,20 @@
-.body_background 
+.body_backgorund 
 {
-    background-image: url("https://lh4.googleusercontent.com/FYOAk5XF2ZMMhKjutzRRrMIaFvIaicwibb1V-hX7jTXdYYoCg33wclLfnVAhK8j7g9GtBrFkB2yCJJuzdp7J=w960-h900-rw");
-    background-position: center;
-    background-size: cover;
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
 }
-
-
 #myCanvas
 {
-	margin-top: 30px;
-	border-width:10px;
-	background-color: white; 
-	border-style:ridge;
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
 }
 
-
-h2
-{
-	border-radius: 10px;
-	width: 200px;
-	padding: 5px;
- }
 h3
 {
+	width: 1000px;
+	background-color: white;
 	display: inline-block;
 }
-span
-{
-	color: black;	
-}
-a
-{
-	text-decoration: none;
-	font-size: 20px;
-	padding: 10px;
-    float: left;
-    border-radius: 10px;
-}
-#head_info
-{
-	width: 600px;
-	border-radius: 10px;
-	margin-bottom: 10px;
-}
+
